@@ -36,3 +36,13 @@ Contribute ideas here. Your ideas may or may not be added to the bot.
 - **Democracy!** (I -> XVI) {1, 5, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130, 150} Vote for WP that many times.
 - **Devoted!** (I -> XV) {}
 
+#### Speed:
+ - **Beginner Typist** - Type 60 wpm
+- **Amateur Typist** - Type 80 wpm
+- **Proficient Typist** - Type 100 wpm
+- **Fast Typist** - Type 120 wpm
+- **Pro Typist** - Type 150 wpm
+- **Crazy Typist** - Type 180 wpm
+- **200 Barrie**r - Type 200 wpm
+- **Steno?** - Type 220 wpm
+- **Cheating?** - Type 250 wpm
