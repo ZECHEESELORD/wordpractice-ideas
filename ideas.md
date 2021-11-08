@@ -14,13 +14,16 @@ Contribute ideas here. Your ideas may or may not be added to the bot.
 
 ### Challenge:
 
--   **Starting out** (Use WP for the first time)
--   **Support!** (Invite WP to a server you own!)
--   **Quoi?** (Change language settings)
--   **THAT WAS CLOSE** (Win a race)
--   **Hey Mom, Look!** (Appear on the leaderboards)
--   **\*Philanthropy** (Host a giveaway [wordPractice Server])
--   **Thomas??** (?????????)
+-   **Starting out** - (Use WP for the first time)
+-   **Support!** - (Invite WP to a server you own!)
+-   **Quoi?** - (Change language settings)
+-   **THAT WAS CLOSE** - (Win a race)
+-   **Hey Mom, Look!** - (Appear on the leaderboards)
+-   **\*Philanthropy** - (Host a giveaway [wordPractice Server])
+-   **Thomas??** - (?????????)
+-   **Yummy!** - (Buy the seasonal **CHEESE** badge (IDK WHAT SEASON))
+-   **Ooh! Shiny!** - (Earn a medal, any kind)
+
 
 ### Tiered:
 
@@ -28,6 +31,10 @@ Contribute ideas here. Your ideas may or may not be added to the bot.
 -   **Democracy!** (I -> X) {1, 5, 10, 25, 50, 100, 250, 500, 750, 1000} Vote for wp that many times.
 -   **Devoted!** (I -> V) {3,7,14,30,60} Play wp for that many days in a row
 
+-   **Shiny!** (I -> V) {1, 3, 6, 10, 15} - (Earn a bronze medal that many times)
+-   **Shiny!!** (I -> V) {1, 3, 6, 10, 15} - (Earn a silver medal that many times)
+-   **Shiny!!!** (I -> V) {1, 3, 6, 10, 15} - (Earn a gold medal that many times)
+-   **🤑**
 ### Speed:
 
 -   **Beginner Typist** - Type 60 wpm
@@ -48,3 +55,4 @@ Contribute ideas here. Your ideas may or may not be added to the bot.
 -   **Badge Hoarder** - Have 30 badges
 -   **Badge Exporter** - Have 50 badges
 -   **Badge Tycoon** - Have 100 badges
+
