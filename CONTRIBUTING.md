@@ -11,4 +11,4 @@
 - Balancing changes (Open an issue)
 
 
-> *By submitting pull requests to this repository, you waive any rights or ownership of the included contents to wordPractice. Contributions to this repository must conform to the wordPratice ToS, as well as the Discord App TOS.*
+> *By submitting pull requests to this repository, you waive any rights or ownership of the included contents to wordPractice. Contributions to this repository must conform to the [wordPractice ToS](https://principle105.github.io/privacy-policy) and [Privacy Policy](https://principle105.github.io/privacy-policy/rules.html), as well as the [Discord App TOS](https://discord.com/terms).*
